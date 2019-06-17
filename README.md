@@ -3,7 +3,7 @@ SRLibrary: Comparing different loss functions for super-resolution over various 
 
 ## Results
 
-![alt text](https://github.com/isahhin/swcd/blob/master/contents/swcd2.PNG){:height="100px" width="200px"}
+![alt text]<img src="https://github.com/favicon.ico" height="24" width="48">
 
 
 ## Code
