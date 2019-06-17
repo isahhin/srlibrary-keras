@@ -1,6 +1,11 @@
 # srlibrary-keras
 SRLibrary: Comparing different loss functions for super-resolution over various convolutional architectures
 
+## Results
+
+![alt text](https://github.com/isahhin/swcd/blob/master/contents/swcd2.PNG)
+
+
 ## Code
 
 Python Code: https://github.com/isahhin/cmaed/tree/master/CMAEDPython.
