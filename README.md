@@ -10,8 +10,8 @@ SRLibrary: Comparing different loss functions for super-resolution over various 
 
 ## Code
 
-Python Code: https://github.com/isahhin/cmaed/tree/master/CMAEDPython.
-
+Train Code in Python: https://github.com/isahhin/srlibrary-keras/blob/master/srlibrarykeras-train-code/.
+Test Code in Python: https://github.com/isahhin/srlibrary-keras/blob/master/srlibrarykeras-test-code/.
 
 ## License
 
