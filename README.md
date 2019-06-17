@@ -3,7 +3,7 @@ SRLibrary: Comparing different loss functions for super-resolution over various 
 
 ## Results
 
-<img src="https://github.com/isahhin/srlibrary-keras/blob/master/images/Butterfly_SRCNN.png" height="400" width="1600">
+<img src="https://github.com/isahhin/srlibrary-keras/blob/master/images/Butterfly_SRCNN.png" height="300" width="1000">
 
 
 ## Code
